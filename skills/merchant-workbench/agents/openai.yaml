@@ -1,0 +1,4 @@
+interface:
+  display_name: "实体商家工作台设计与交付"
+  short_description: "按门店需求设计并交付手机工作台"
+  default_prompt: "使用 $merchant-workbench，根据我的门店需求规划并制作手机工作台。"
